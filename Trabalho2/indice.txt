@@ -1,0 +1,834 @@
+Almir: conselho.samba: 1
+Amanha: candidato_cao_cao.samba: 3, ze_do_caroco.samba: 1
+Aragao: ja_e.samba: 1
+Aviao: posso_ate_me_apaixonar.samba: 2
+Bebeto: jessica.samba: 1
+Beth: andanca.samba: 1, nao_quero_saber_mais_dela.samba: 1
+Bustie: posso_ate_me_apaixonar.samba: 2
+Calixto: enfeiticado.samba: 1
+Candomble: colher_de_pau.samba: 1
+Carnaval: ze_do_caroco.samba: 1
+Carvalho: andanca.samba: 1, nao_quero_saber_mais_dela.samba: 1
+Cris: enfeiticado.samba: 1
+Cruz: meu_lugar.samba: 3
+Eulalia: meu_lugar.samba: 1
+Guineto: conselho.samba: 1
+Jessica: jessica.samba: 4
+Jorge: ja_e.samba: 1, tive_razao.samba: 1, un_lugar_en_tu_almohada.samba: 1
+Jovelina: luz_do_repente.samba: 1
+Lelelele: ze_do_caroco.samba: 2
+Lelelelelelelelele: ze_do_caroco.samba: 1
+Madureira: nao_quero_saber_mais_dela.samba: 2
+Malandreando: malandro_sou_eu.samba: 1
+Malandro: malandro_sou_eu.samba: 1
+Maria: colher_de_pau.samba: 1, meu_lugar.samba: 1
+Mercadao: meu_lugar.samba: 1
+Mereca: colher_de_pau.samba: 1
+Operario: candidato_cao_cao.samba: 1
+Portela: foi_um_rio_que_passou_em_minha_vida.samba: 1, meu_lugar.samba: 1
+Roberta: eu_sambo_mesmo.samba: 1
+Sambe: eu_sambo_mesmo.samba: 2
+Santiago: verdade_chinesa.samba: 1
+Silva: candidato_cao_cao.samba: 2
+Vovo: colher_de_pau.samba: 1
+abalar: posso_ate_me_apaixonar.samba: 2
+abandonar: nao_quero_saber_mais_dela.samba: 1
+abater: conselho.samba: 1
+abencoar: o_que_e_o_amor.samba: 2
+abracadabra: enfeiticado.samba: 1
+abraco: enfeiticado.samba: 1
+acabar: ja_e.samba: 2, posso_ate_me_apaixonar.samba: 2
+acercar: un_lugar_en_tu_almohada.samba: 1
+achar: foi_um_rio_que_passou_em_minha_vida.samba: 1, pai.samba: 1
+aco: luz_do_repente.samba: 1
+acomodar: verdade_chinesa.samba: 3
+acompanhar: andanca.samba: 1
+acontecer: ja_e.samba: 1
+adiantar: nao_quero_saber_mais_dela.samba: 1
+ae: candidato_cao_cao.samba: 1
+afinal: verdade_chinesa.samba: 1
+africano: colher_de_pau.samba: 1
+agir: conselho.samba: 1
+agua: a_flor_e_o_espinho.samba: 1, candidato_cao_cao.samba: 2, nao_quero_saber_mais_dela.samba: 1
+ah: candidato_cao_cao.samba: 1, foi_um_rio_que_passou_em_minha_vida.samba: 1, meu_lugar.samba: 3, nao_quero_saber_mais_dela.samba: 2
+ai: as_rosas_nao_falam.samba: 1, candidato_cao_cao.samba: 4, foi_um_rio_que_passou_em_minha_vida.samba: 1, malandro_sou_eu.samba: 2, ze_do_caroco.samba: 1
+ajuda: candidato_cao_cao.samba: 2
+ajudar: colher_de_pau.samba: 2, menino_de_pe_no_chao.samba: 1
+alegria: foi_um_rio_que_passou_em_minha_vida.samba: 1
+alertar: ze_do_caroco.samba: 1
+alguem: eu_sambo_mesmo.samba: 1, foi_um_rio_que_passou_em_minha_vida.samba: 1, samba_a_dois.samba: 1, verdade_chinesa.samba: 1
+algum: jessica.samba: 1
+aline: enfeiticado.samba: 1
+alma: a_flor_e_o_espinho.samba: 1, samba_a_dois.samba: 2
+almohar: un_lugar_en_tu_almohada.samba: 7
+alvorada: foi_um_rio_que_passou_em_minha_vida.samba: 1
+alvoroco: ze_do_caroco.samba: 1
+amanha: candidato_cao_cao.samba: 6, enfeiticado.samba: 1, verdade_chinesa.samba: 3
+amar: conselho.samba: 2, o_que_e_o_amor.samba: 4, posso_ate_me_apaixonar.samba: 2
+amassar: verdade_chinesa.samba: 1
+amazonia: pai.samba: 1
+amor: a_flor_e_o_espinho.samba: 1, andanca.samba: 15, conselho.samba: 1, enfeiticado.samba: 1, foi_um_rio_que_passou_em_minha_vida.samba: 5, ja_e.samba: 3, jessica.samba: 3, meu_lugar.samba: 1, o_que_e_o_amor.samba: 9, verdade_chinesa.samba: 3
+andanca: andanca.samba: 1
+andar: andanca.samba: 4, foi_um_rio_que_passou_em_minha_vida.samba: 1, meu_lugar.samba: 2
+ano: pai.samba: 1
+anunciar: foi_um_rio_que_passou_em_minha_vida.samba: 1
+apagar: colher_de_pau.samba: 1, foi_um_rio_que_passou_em_minha_vida.samba: 2
+apaixonar: posso_ate_me_apaixonar.samba: 25
+apanhar: colher_de_pau.samba: 1
+aprender: colher_de_pau.samba: 1, conselho.samba: 1, luz_do_repente.samba: 6, malandro_sou_eu.samba: 1, menino_de_pe_no_chao.samba: 2
+apressar: foi_um_rio_que_passou_em_minha_vida.samba: 1
+apronto: colher_de_pau.samba: 1
+ar: pai.samba: 1
+ardente: enfeiticado.samba: 1
+area: candidato_cao_cao.samba: 1
+areia: andanca.samba: 1
+arlir: meu_lugar.samba: 1
+arrego: posso_ate_me_apaixonar.samba: 2
+arrepia: colher_de_pau.samba: 1
+asfalto: menino_de_pe_no_chao.samba: 1
+assaltar: pai.samba: 1
+astral: conselho.samba: 1
+ate: candidato_cao_cao.samba: 1, colher_de_pau.samba: 1, enfeiticado.samba: 1, malandro_sou_eu.samba: 1, meu_lugar.samba: 4, o_que_e_o_amor.samba: 1, posso_ate_me_apaixonar.samba: 25, verdade_chinesa.samba: 1
+atencao: posso_ate_me_apaixonar.samba: 2
+atento: candidato_cao_cao.samba: 1
+atitude: nao_quero_saber_mais_dela.samba: 1
+atra: nao_quero_saber_mais_dela.samba: 1
+atrevar: samba_a_dois.samba: 8
+atrever: samba_a_dois.samba: 8
+atrevido: verdade_chinesa.samba: 1
+atual: colher_de_pau.samba: 1
+auto: ze_do_caroco.samba: 1
+avela: enfeiticado.samba: 1
+avental: colher_de_pau.samba: 1
+avisar: ze_do_caroco.samba: 1
+aviso: luz_do_repente.samba: 1
+azar: candidato_cao_cao.samba: 2
+azul: foi_um_rio_que_passou_em_minha_vida.samba: 1, un_lugar_en_tu_almohada.samba: 1
+bagulho: candidato_cao_cao.samba: 1
+balanca: posso_ate_me_apaixonar.samba: 2
+bambo: samba_a_dois.samba: 1
+bandeira: ze_do_caroco.samba: 6
+bandeja: enfeiticado.samba: 1
+bar: meu_lugar.samba: 1
+barra: pai.samba: 1
+barracao: candidato_cao_cao.samba: 1
+barro: malandro_sou_eu.samba: 1
+batalha: ze_do_caroco.samba: 1
+bater: as_rosas_nao_falam.samba: 1, candidato_cao_cao.samba: 6, nao_quero_saber_mais_dela.samba: 1
+batom: enfeiticado.samba: 1
+beber: candidato_cao_cao.samba: 3
+beijo: enfeiticado.samba: 1, verdade_chinesa.samba: 1
+belo: posso_ate_me_apaixonar.samba: 2
+benzer: meu_lugar.samba: 1
+bezerra: candidato_cao_cao.samba: 2
+bicho: luz_do_repente.samba: 1
+bilhar: meu_lugar.samba: 1
+bis: menino_de_pe_no_chao.samba: 2
+blindado: pai.samba: 1
+bloco: samba_a_dois.samba: 1
+blusa: posso_ate_me_apaixonar.samba: 2
+bobagem: as_rosas_nao_falam.samba: 1
+bobeira: malandro_sou_eu.samba: 1, tive_razao.samba: 2
+boca: verdade_chinesa.samba: 1, ze_do_caroco.samba: 1
+bom: tive_razao.samba: 4, verdade_chinesa.samba: 1
+botar: ze_do_caroco.samba: 1
+braco: candidato_cao_cao.samba: 1
+brasileiro: ze_do_caroco.samba: 1
+breca: colher_de_pau.samba: 1
+brilhar: o_que_e_o_amor.samba: 2
+brincar: luz_do_repente.samba: 1
+bulicoso: eu_sambo_mesmo.samba: 1
+buraco: meu_lugar.samba: 1
+burburinho: enfeiticado.samba: 1
+cabeca: candidato_cao_cao.samba: 2, colher_de_pau.samba: 2, conselho.samba: 1, nao_quero_saber_mais_dela.samba: 1
+caboco: candidato_cao_cao.samba: 2
+cachaca: candidato_cao_cao.samba: 1
+cachecol: enfeiticado.samba: 1
+cadente: luz_do_repente.samba: 1
+cafune: posso_ate_me_apaixonar.samba: 2
+caguetar: candidato_cao_cao.samba: 1
+caier: posso_ate_me_apaixonar.samba: 2
+caipira: meu_lugar.samba: 1
+cair: luz_do_repente.samba: 4, nao_quero_saber_mais_dela.samba: 1, pai.samba: 1, verdade_chinesa.samba: 1
+calar: colher_de_pau.samba: 1
+caldeirao: enfeiticado.samba: 1
+calmare: un_lugar_en_tu_almohada.samba: 1
+caminhar: andanca.samba: 3
+canalha: candidato_cao_cao.samba: 1
+cancion: un_lugar_en_tu_almohada.samba: 1
+candidato: candidato_cao_cao.samba: 2
+cansei: andanca.samba: 1
+cantar: andanca.samba: 1, colher_de_pau.samba: 1, meu_lugar.samba: 1, pai.samba: 1
+cantare: un_lugar_en_tu_almohada.samba: 2
+cao: candidato_cao_cao.samba: 6
+caozado: candidato_cao_cao.samba: 1
+cara: pai.samba: 1
+carinho: enfeiticado.samba: 1, jessica.samba: 3, posso_ate_me_apaixonar.samba: 2
+carnaval: foi_um_rio_que_passou_em_minha_vida.samba: 1
+caro: nao_quero_saber_mais_dela.samba: 1
+caroco: ze_do_caroco.samba: 4
+carregar: foi_um_rio_que_passou_em_minha_vida.samba: 1
+carro: pai.samba: 1
+carta: ja_e.samba: 1
+cartilha: verdade_chinesa.samba: 1
+cartola: as_rosas_nao_falam.samba: 1
+casa: nao_quero_saber_mais_dela.samba: 1, verdade_chinesa.samba: 3
+cascada: un_lugar_en_tu_almohada.samba: 1
+cascadura: meu_lugar.samba: 2
+caso: foi_um_rio_que_passou_em_minha_vida.samba: 1, posso_ate_me_apaixonar.samba: 2
+cativeiro: colher_de_pau.samba: 1
+cavaquinho: a_flor_e_o_espinho.samba: 1
+centena: meu_lugar.samba: 1
+cercar: meu_lugar.samba: 3
+cereja: enfeiticado.samba: 1
+cerol: candidato_cao_cao.samba: 1
+cerrado: colher_de_pau.samba: 1
+certo: nao_quero_saber_mais_dela.samba: 1
+cerveja: meu_lugar.samba: 2, verdade_chinesa.samba: 1
+cetim: andanca.samba: 1
+ceu: enfeiticado.samba: 1, foi_um_rio_que_passou_em_minha_vida.samba: 1, nao_quero_saber_mais_dela.samba: 2
+chale: nao_quero_saber_mais_dela.samba: 1
+chamar: posso_ate_me_apaixonar.samba: 2
+chamego: posso_ate_me_apaixonar.samba: 2
+chao: menino_de_pe_no_chao.samba: 4
+charminho: posso_ate_me_apaixonar.samba: 2
+chegar: andanca.samba: 2, candidato_cao_cao.samba: 1, luz_do_repente.samba: 1, meu_lugar.samba: 1, posso_ate_me_apaixonar.samba: 4
+chegor: luz_do_repente.samba: 1
+cheguei: colher_de_pau.samba: 1
+cheio: andanca.samba: 1, enfeiticado.samba: 1
+cheiro: enfeiticado.samba: 1
+chinês: verdade_chinesa.samba: 2
+chocolate: enfeiticado.samba: 1
+chorar: as_rosas_nao_falam.samba: 1, tive_razao.samba: 2
+chuva: candidato_cao_cao.samba: 2
+ciso: luz_do_repente.samba: 1
+clarao: o_que_e_o_amor.samba: 2
+clima: pai.samba: 1, tive_razao.samba: 2
+coisa: meu_lugar.samba: 1
+coitar: pai.samba: 1
+colher: colher_de_pau.samba: 10, enfeiticado.samba: 1, jessica.samba: 1
+colosso: ze_do_caroco.samba: 1
+coma: pai.samba: 1
+comecar: jessica.samba: 1
+comemorar: meu_lugar.samba: 2
+comer: pai.samba: 1, verdade_chinesa.samba: 1
+comida: colher_de_pau.samba: 1
+comigo: luz_do_repente.samba: 8, posso_ate_me_apaixonar.samba: 2
+companheira: nao_quero_saber_mais_dela.samba: 2
+comprar: meu_lugar.samba: 1
+compreender: eu_sambo_mesmo.samba: 1
+comprovar: candidato_cao_cao.samba: 1
+confiar: candidato_cao_cao.samba: 1
+conga: candidato_cao_cao.samba: 2
+conhecer: colher_de_pau.samba: 1
+conquistar: foi_um_rio_que_passou_em_minha_vida.samba: 1, nao_quero_saber_mais_dela.samba: 1
+conseguir: malandro_sou_eu.samba: 1, o_que_e_o_amor.samba: 1
+consultar: foi_um_rio_que_passou_em_minha_vida.samba: 1
+conta: colher_de_pau.samba: 1
+contente: colher_de_pau.samba: 2
+conversa: verdade_chinesa.samba: 1
+copacabana: colher_de_pau.samba: 1
+copiar: eu_sambo_mesmo.samba: 1
+copo: verdade_chinesa.samba: 3
+cor: colher_de_pau.samba: 1
+coracao: as_rosas_nao_falam.samba: 1, conselho.samba: 1, enfeiticado.samba: 1, foi_um_rio_que_passou_em_minha_vida.samba: 8, ja_e.samba: 1, meu_lugar.samba: 1, nao_quero_saber_mais_dela.samba: 1, posso_ate_me_apaixonar.samba: 2, verdade_chinesa.samba: 3
+cordao: samba_a_dois.samba: 1
+corpo: colher_de_pau.samba: 1, eu_sambo_mesmo.samba: 1, foi_um_rio_que_passou_em_minha_vida.samba: 1, posso_ate_me_apaixonar.samba: 2
+cozinhar: colher_de_pau.samba: 9
+cpi: pai.samba: 1
+crianca: pai.samba: 1
+crime: pai.samba: 1
+croche: posso_ate_me_apaixonar.samba: 2
+cuidado: candidato_cao_cao.samba: 2
+cumpade: candidato_cao_cao.samba: 4
+cuna: un_lugar_en_tu_almohada.samba: 1
+curar: o_que_e_o_amor.samba: 1
+d: a_flor_e_o_espinho.samba: 1
+danado: o_que_e_o_amor.samba: 1
+danca: andanca.samba: 1
+dancar: meu_lugar.samba: 1
+dar: candidato_cao_cao.samba: 3, conselho.samba: 1, ja_e.samba: 1, malandro_sou_eu.samba: 1, samba_a_dois.samba: 1
+de ali: malandro_sou_eu.samba: 1
+de aqui: malandro_sou_eu.samba: 1
+de ela: jessica.samba: 6, nao_quero_saber_mais_dela.samba: 2
+decente: menino_de_pe_no_chao.samba: 1
+decote: posso_ate_me_apaixonar.samba: 2
+dediquar: conselho.samba: 1
+dedo: enfeiticado.samba: 1
+definir: foi_um_rio_que_passou_em_minha_vida.samba: 1, o_que_e_o_amor.samba: 1
+deixar: conselho.samba: 1, foi_um_rio_que_passou_em_minha_vida.samba: 3, luz_do_repente.samba: 9, posso_ate_me_apaixonar.samba: 2, samba_a_dois.samba: 1, verdade_chinesa.samba: 3
+deixer: luz_do_repente.samba: 4
+demorar: tive_razao.samba: 4
+dengo: meu_lugar.samba: 1
+depender: ja_e.samba: 1
+derramar: andanca.samba: 1
+desalinho: posso_ate_me_apaixonar.samba: 2
+descansar: andanca.samba: 1
+descansare: un_lugar_en_tu_almohada.samba: 1
+desemparar: jessica.samba: 1
+desemprego: candidato_cao_cao.samba: 1
+desengano: foi_um_rio_que_passou_em_minha_vida.samba: 2
+desistar: candidato_cao_cao.samba: 1
+despertar: o_que_e_o_amor.samba: 1
+destroir: ze_do_caroco.samba: 1
+desvendar: posso_ate_me_apaixonar.samba: 2
+deus: jessica.samba: 2, nao_quero_saber_mais_dela.samba: 4, posso_ate_me_apaixonar.samba: 2
+dever: as_rosas_nao_falam.samba: 1
+devio: as_rosas_nao_falam.samba: 1
+dezena: meu_lugar.samba: 1
+dia: andanca.samba: 1, colher_de_pau.samba: 1, foi_um_rio_que_passou_em_minha_vida.samba: 2, nao_quero_saber_mais_dela.samba: 1, verdade_chinesa.samba: 1
+diabo: verdade_chinesa.samba: 1
+diamante: luz_do_repente.samba: 1
+diferente: foi_um_rio_que_passou_em_minha_vida.samba: 1, jessica.samba: 1, pai.samba: 1, posso_ate_me_apaixonar.samba: 2
+dificil: foi_um_rio_que_passou_em_minha_vida.samba: 1, meu_lugar.samba: 2
+discurso: ze_do_caroco.samba: 1
+disser: verdade_chinesa.samba: 1
+ditado: conselho.samba: 1, nao_quero_saber_mais_dela.samba: 1
+dividir: candidato_cao_cao.samba: 1
+dizer: candidato_cao_cao.samba: 5, nao_quero_saber_mais_dela.samba: 1, o_que_e_o_amor.samba: 2
+doce: enfeiticado.samba: 1, meu_lugar.samba: 3, nao_quero_saber_mais_dela.samba: 2, verdade_chinesa.samba: 1
+doi: tive_razao.samba: 4
+dominar: eu_sambo_mesmo.samba: 1
+dor: a_flor_e_o_espinho.samba: 2, conselho.samba: 1, ja_e.samba: 2, o_que_e_o_amor.samba: 1
+dou: luz_do_repente.samba: 1
+drexler: un_lugar_en_tu_almohada.samba: 1
+dudu: posso_ate_me_apaixonar.samba: 1
+duerma: un_lugar_en_tu_almohada.samba: 2
+duermo: un_lugar_en_tu_almohada.samba: 1
+duro: posso_ate_me_apaixonar.samba: 2
+duzentas: candidato_cao_cao.samba: 1
+duzento: candidato_cao_cao.samba: 1
+eee: luz_do_repente.samba: 10
+el: un_lugar_en_tu_almohada.samba: 2
+eleicao: candidato_cao_cao.samba: 1
+emilio: verdade_chinesa.samba: 1
+emocao: o_que_e_o_amor.samba: 2
+en: un_lugar_en_tu_almohada.samba: 8
+encantar: andanca.samba: 1
+encerrar: andanca.samba: 2
+encher: pai.samba: 1
+encontrar: conselho.samba: 1
+enfeiticado: enfeiticado.samba: 1
+enfeiticar: enfeiticado.samba: 1
+enfim: as_rosas_nao_falam.samba: 1
+enfrentar: jessica.samba: 2
+enfrente: conselho.samba: 1
+enganar: candidato_cao_cao.samba: 1
+engoler: malandro_sou_eu.samba: 1
+enlouquecer: posso_ate_me_apaixonar.samba: 2
+enrosque: posso_ate_me_apaixonar.samba: 3
+ensinar: andanca.samba: 2, colher_de_pau.samba: 1, samba_a_dois.samba: 1, verdade_chinesa.samba: 1
+entendar: samba_a_dois.samba: 1
+entender: colher_de_pau.samba: 1, samba_a_dois.samba: 1
+entidade: candidato_cao_cao.samba: 1
+entrar: luz_do_repente.samba: 1
+entregar: conselho.samba: 1
+erga: conselho.samba: 1
+errar: a_flor_e_o_espinho.samba: 1, foi_um_rio_que_passou_em_minha_vida.samba: 1
+escola: menino_de_pe_no_chao.samba: 1, ze_do_caroco.samba: 1
+esconder: ja_e.samba: 1, posso_ate_me_apaixonar.samba: 2
+escorregar: malandro_sou_eu.samba: 1
+escravidao: colher_de_pau.samba: 1
+escrever: ja_e.samba: 1, menino_de_pe_no_chao.samba: 1, meu_lugar.samba: 1
+escucharte: un_lugar_en_tu_almohada.samba: 1
+escuro: posso_ate_me_apaixonar.samba: 2
+esmeralda: luz_do_repente.samba: 1
+espaco: luz_do_repente.samba: 1
+espelho: a_flor_e_o_espinho.samba: 1
+esperanca: as_rosas_nao_falam.samba: 1, meu_lugar.samba: 2
+esperandome: un_lugar_en_tu_almohada.samba: 2
+esperar: jessica.samba: 1
+espinho: a_flor_e_o_espinho.samba: 4
+esquecer: meu_lugar.samba: 1, nao_quero_saber_mais_dela.samba: 1
+esquina: meu_lugar.samba: 1
+estrada: andanca.samba: 1
+estrela: luz_do_repente.samba: 1
+estremecer: posso_ate_me_apaixonar.samba: 2
+eterno: meu_lugar.samba: 1
+eu: as_rosas_nao_falam.samba: 1, candidato_cao_cao.samba: 2, ja_e.samba: 3, o_que_e_o_amor.samba: 2, samba_a_dois.samba: 1, tive_razao.samba: 2
+exalar: as_rosas_nao_falam.samba: 1
+exibir: luz_do_repente.samba: 6
+existir: pai.samba: 1, ze_do_caroco.samba: 1
+experiencia: conselho.samba: 1
+explicar: nao_quero_saber_mais_dela.samba: 1, o_que_e_o_amor.samba: 1
+facar: luz_do_repente.samba: 1
+facil: foi_um_rio_que_passou_em_minha_vida.samba: 1
+faco: andanca.samba: 2
+falante: ze_do_caroco.samba: 1
+falar: as_rosas_nao_falam.samba: 2, candidato_cao_cao.samba: 1, jessica.samba: 2, samba_a_dois.samba: 1, tive_razao.samba: 2, ze_do_caroco.samba: 1
+fama: nao_quero_saber_mais_dela.samba: 1
+fatal: o_que_e_o_amor.samba: 1
+favela: menino_de_pe_no_chao.samba: 1, ze_do_caroco.samba: 2
+fazer: posso_ate_me_apaixonar.samba: 2, samba_a_dois.samba: 8
+feijao: colher_de_pau.samba: 1
+feira: ze_do_caroco.samba: 1
+feliz: andanca.samba: 1, conselho.samba: 1, enfeiticado.samba: 1, pai.samba: 1
+festa: andanca.samba: 1
+fezinha: meu_lugar.samba: 1
+ficar: candidato_cao_cao.samba: 1, foi_um_rio_que_passou_em_minha_vida.samba: 4, malandro_sou_eu.samba: 1, nao_quero_saber_mais_dela.samba: 1, pai.samba: 1, verdade_chinesa.samba: 1
+fila: luz_do_repente.samba: 1
+filha: pai.samba: 1
+finger: eu_sambo_mesmo.samba: 1
+fingir: posso_ate_me_apaixonar.samba: 2
+fininho: candidato_cao_cao.samba: 1
+fiz: andanca.samba: 3
+flor: a_flor_e_o_espinho.samba: 3, jessica.samba: 2
+fogo: colher_de_pau.samba: 1
+forca: conselho.samba: 1, eu_sambo_mesmo.samba: 1, pai.samba: 1
+fraquejar: posso_ate_me_apaixonar.samba: 2
+frio: menino_de_pe_no_chao.samba: 1
+fu: candidato_cao_cao.samba: 1
+fude: candidato_cao_cao.samba: 1
+fumar: candidato_cao_cao.samba: 1
+fundo: malandro_sou_eu.samba: 2
+gandaia: posso_ate_me_apaixonar.samba: 2
+ganhar: candidato_cao_cao.samba: 1
+gente: colher_de_pau.samba: 1, eu_sambo_mesmo.samba: 1, ja_e.samba: 2, jessica.samba: 1, menino_de_pe_no_chao.samba: 2, meu_lugar.samba: 1, o_que_e_o_amor.samba: 4, pai.samba: 3, verdade_chinesa.samba: 5, ze_do_caroco.samba: 1
+gigante: enfeiticado.samba: 1
+ginga: meu_lugar.samba: 2
+giz: enfeiticado.samba: 1
+goiabada: candidato_cao_cao.samba: 1
+gostar: candidato_cao_cao.samba: 1, eu_sambo_mesmo.samba: 4, posso_ate_me_apaixonar.samba: 3, samba_a_dois.samba: 2
+gravata: candidato_cao_cao.samba: 1
+gravei: colher_de_pau.samba: 1
+graveto: colher_de_pau.samba: 1
+guerra: andanca.samba: 2
+guia: candidato_cao_cao.samba: 1
+ha: candidato_cao_cao.samba: 1, eu_sambo_mesmo.samba: 4, foi_um_rio_que_passou_em_minha_vida.samba: 1
+habilitar: meu_lugar.samba: 1
+haha: candidato_cao_cao.samba: 2
+harmonioso: eu_sambo_mesmo.samba: 1
+haver: samba_a_dois.samba: 1
+hay: un_lugar_en_tu_almohada.samba: 4
+hazme: un_lugar_en_tu_almohada.samba: 4
+heranca: colher_de_pau.samba: 1
+hermano: samba_a_dois.samba: 1
+historia: colher_de_pau.samba: 1
+hoje: a_flor_e_o_espinho.samba: 2, candidato_cao_cao.samba: 8, enfeiticado.samba: 1, o_que_e_o_amor.samba: 1
+homem: candidato_cao_cao.samba: 1, pai.samba: 1
+hora: candidato_cao_cao.samba: 2, ze_do_caroco.samba: 1
+hortela: enfeiticado.samba: 1
+ialalaialalaia: meu_lugar.samba: 1
+iansa: meu_lugar.samba: 2
+ilusao: verdade_chinesa.samba: 1
+imenso: andanca.samba: 1
+imperio: meu_lugar.samba: 1
+improvisar: luz_do_repente.samba: 1
+improviso: luz_do_repente.samba: 1
+incorporado: candidato_cao_cao.samba: 1
+incorporar: candidato_cao_cao.samba: 1
+inocente: posso_ate_me_apaixonar.samba: 2
+insonia: pai.samba: 1
+inspiracao: meu_lugar.samba: 1
+inteiro: posso_ate_me_apaixonar.samba: 2, ze_do_caroco.samba: 1
+intencao: verdade_chinesa.samba: 1
+ir: andanca.samba: 4, candidato_cao_cao.samba: 4, ja_e.samba: 2, jessica.samba: 2, malandro_sou_eu.samba: 3, meu_lugar.samba: 1, nao_quero_saber_mais_dela.samba: 1, posso_ate_me_apaixonar.samba: 6, tive_razao.samba: 6
+ira: un_lugar_en_tu_almohada.samba: 1
+iraja: meu_lugar.samba: 2
+ire: un_lugar_en_tu_almohada.samba: 1
+irmao: candidato_cao_cao.samba: 4
+irmaozinho: menino_de_pe_no_chao.samba: 1
+isabel: ze_do_caroco.samba: 1
+ja: a_flor_e_o_espinho.samba: 1, andanca.samba: 2, as_rosas_nao_falam.samba: 1, conselho.samba: 1, ja_e.samba: 3, jessica.samba: 3, luz_do_repente.samba: 1, pai.samba: 1, posso_ate_me_apaixonar.samba: 2, samba_a_dois.samba: 1
+jabuticaba: enfeiticado.samba: 1
+jacaranda: un_lugar_en_tu_almohada.samba: 1
+jamais: andanca.samba: 2, nao_quero_saber_mais_dela.samba: 1
+jantar: candidato_cao_cao.samba: 1
+jardim: as_rosas_nao_falam.samba: 1
+jeito: pai.samba: 1
+jessica: jessica.samba: 8
+joanna: colher_de_pau.samba: 1
+jogo: candidato_cao_cao.samba: 2, meu_lugar.samba: 1, posso_ate_me_apaixonar.samba: 2
+jongo: meu_lugar.samba: 1
+juntar: a_flor_e_o_espinho.samba: 1
+junto: un_lugar_en_tu_almohada.samba: 2
+jurar: pai.samba: 1
+juro: posso_ate_me_apaixonar.samba: 2
+justica: candidato_cao_cao.samba: 1
+la: candidato_cao_cao.samba: 6, enfeiticado.samba: 3, ja_e.samba: 2, jessica.samba: 1, malandro_sou_eu.samba: 1, meu_lugar.samba: 14, nao_quero_saber_mais_dela.samba: 2, un_lugar_en_tu_almohada.samba: 3
+laca: samba_a_dois.samba: 1
+lado: meu_lugar.samba: 1
+lagrima: colher_de_pau.samba: 1
+laiar: meu_lugar.samba: 6
+lalalaialalalalalaia: meu_lugar.samba: 1
+lamentar: conselho.samba: 1
+largar: pai.samba: 1
+lata: candidato_cao_cao.samba: 1
+lavra: samba_a_dois.samba: 1
+legal: colher_de_pau.samba: 1, tive_razao.samba: 2
+legua: andanca.samba: 1
+lei: luz_do_repente.samba: 1
+leite: enfeiticado.samba: 1
+lelelelelelelelele: ze_do_caroco.samba: 1
+lembranca: enfeiticado.samba: 1
+lembrar: andanca.samba: 1, colher_de_pau.samba: 1, foi_um_rio_que_passou_em_minha_vida.samba: 1
+lenda: andanca.samba: 1
+lenha: colher_de_pau.samba: 1
+ler: menino_de_pe_no_chao.samba: 1
+letra: pai.samba: 1
+levada: colher_de_pau.samba: 1
+levantar: verdade_chinesa.samba: 1
+levar: andanca.samba: 9, foi_um_rio_que_passou_em_minha_vida.samba: 3, malandro_sou_eu.samba: 1, meu_lugar.samba: 1, pai.samba: 1, samba_a_dois.samba: 2
+leviano: nao_quero_saber_mais_dela.samba: 1
+liberar: pai.samba: 1
+licao: conselho.samba: 1
+lider: ze_do_caroco.samba: 2
+ligar: candidato_cao_cao.samba: 6
+ligor: posso_ate_me_apaixonar.samba: 2
+lindo: ja_e.samba: 2, jessica.samba: 2
+llevar: un_lugar_en_tu_almohada.samba: 1
+lo: samba_a_dois.samba: 1
+lobo: meu_lugar.samba: 2
+loteria: candidato_cao_cao.samba: 1
+louco: eu_sambo_mesmo.samba: 1, pai.samba: 1
+lua: a_flor_e_o_espinho.samba: 1, andanca.samba: 2, enfeiticado.samba: 1, pai.samba: 1
+luar: andanca.samba: 1, meu_lugar.samba: 1, o_que_e_o_amor.samba: 2
+luta: meu_lugar.samba: 2
+lutar: conselho.samba: 1
+luz: luz_do_repente.samba: 2, meu_lugar.samba: 3, o_que_e_o_amor.samba: 2, pai.samba: 1
+maca: enfeiticado.samba: 1
+machucar: a_flor_e_o_espinho.samba: 1, posso_ate_me_apaixonar.samba: 2
+macumba: candidato_cao_cao.samba: 2
+madeira: ze_do_caroco.samba: 1
+madureira: meu_lugar.samba: 13
+mae: menino_de_pe_no_chao.samba: 1
+magia: verdade_chinesa.samba: 1
+magoa: a_flor_e_o_espinho.samba: 1
+malandragem: candidato_cao_cao.samba: 3
+malandro: candidato_cao_cao.samba: 4, malandro_sou_eu.samba: 2
+malhar: ze_do_caroco.samba: 1
+maltratar: posso_ate_me_apaixonar.samba: 2
+malvado: menino_de_pe_no_chao.samba: 1
+mamadeira: pai.samba: 1
+mandar: candidato_cao_cao.samba: 7, nao_quero_saber_mais_dela.samba: 2, verdade_chinesa.samba: 1
+mane: candidato_cao_cao.samba: 2
+mangueira: nao_quero_saber_mais_dela.samba: 1, ze_do_caroco.samba: 1
+manha: enfeiticado.samba: 1, meu_lugar.samba: 2
+mania: foi_um_rio_que_passou_em_minha_vida.samba: 1
+mansa: andanca.samba: 1
+manter: colher_de_pau.samba: 1
+mao: andanca.samba: 1, samba_a_dois.samba: 1
+mar: foi_um_rio_que_passou_em_minha_vida.samba: 1, luz_do_repente.samba: 1
+marca: foi_um_rio_que_passou_em_minha_vida.samba: 2
+marcar: foi_um_rio_que_passou_em_minha_vida.samba: 1, malandro_sou_eu.samba: 1
+mau: o_que_e_o_amor.samba: 1, posso_ate_me_apaixonar.samba: 2
+medo: pai.samba: 1
+mejilla: un_lugar_en_tu_almohada.samba: 1
+melhor: meu_lugar.samba: 2
+melodia: pai.samba: 1
+menina: colher_de_pau.samba: 1
+menino: menino_de_pe_no_chao.samba: 7
+mente: colher_de_pau.samba: 1
+merecer: conselho.samba: 1
+mesmo: colher_de_pau.samba: 1
+mestre: verdade_chinesa.samba: 1
+metar: colher_de_pau.samba: 1
+meter: pai.samba: 1
+metie: posso_ate_me_apaixonar.samba: 2
+mexer: eu_sambo_mesmo.samba: 1
+milhar: meu_lugar.samba: 1
+mina: posso_ate_me_apaixonar.samba: 2
+minh: a_flor_e_o_espinho.samba: 1
+minoria: eu_sambo_mesmo.samba: 1
+missao: candidato_cao_cao.samba: 1
+misterio: posso_ate_me_apaixonar.samba: 2
+mito: meu_lugar.samba: 2
+moco: malandro_sou_eu.samba: 1, menino_de_pe_no_chao.samba: 1, ze_do_caroco.samba: 1
+moda: andanca.samba: 1, pai.samba: 1
+mole: malandro_sou_eu.samba: 1
+morar: nao_quero_saber_mais_dela.samba: 1
+morri: pai.samba: 1
+morro: candidato_cao_cao.samba: 1, ze_do_caroco.samba: 6
+mostrar: luz_do_repente.samba: 6
+mudado: pai.samba: 1
+mudar: candidato_cao_cao.samba: 1, malandro_sou_eu.samba: 1, nao_quero_saber_mais_dela.samba: 1
+muito: menino_de_pe_no_chao.samba: 2, o_que_e_o_amor.samba: 2, verdade_chinesa.samba: 1
+mundo: candidato_cao_cao.samba: 1, jessica.samba: 2, malandro_sou_eu.samba: 2, menino_de_pe_no_chao.samba: 1, meu_lugar.samba: 2, pai.samba: 4, verdade_chinesa.samba: 1, ze_do_caroco.samba: 1
+namorado: andanca.samba: 1
+nao: a_flor_e_o_espinho.samba: 2, andanca.samba: 3, as_rosas_nao_falam.samba: 3, candidato_cao_cao.samba: 3, colher_de_pau.samba: 3, conselho.samba: 2, eu_sambo_mesmo.samba: 6, foi_um_rio_que_passou_em_minha_vida.samba: 5, ja_e.samba: 1, luz_do_repente.samba: 9, malandro_sou_eu.samba: 3, menino_de_pe_no_chao.samba: 1, meu_lugar.samba: 1, nao_quero_saber_mais_dela.samba: 8, o_que_e_o_amor.samba: 2, pai.samba: 1, posso_ate_me_apaixonar.samba: 18, samba_a_dois.samba: 4, tive_razao.samba: 8, ze_do_caroco.samba: 1
+nascer: jessica.samba: 5, o_que_e_o_amor.samba: 1, ze_do_caroco.samba: 2
+natal: colher_de_pau.samba: 1
+natural: colher_de_pau.samba: 1
+negar: foi_um_rio_que_passou_em_minha_vida.samba: 1
+nego: posso_ate_me_apaixonar.samba: 2
+negro: luz_do_repente.samba: 3
+nelson: a_flor_e_o_espinho.samba: 1
+nenem: pai.samba: 1
+ninguem: eu_sambo_mesmo.samba: 1, malandro_sou_eu.samba: 1, o_que_e_o_amor.samba: 1
+nobre: posso_ate_me_apaixonar.samba: 1
+noite: posso_ate_me_apaixonar.samba: 2, verdade_chinesa.samba: 1
+nome: jessica.samba: 7, menino_de_pe_no_chao.samba: 1, meu_lugar.samba: 2
+normal: verdade_chinesa.samba: 1
+novela: ze_do_caroco.samba: 1
+nuance: colher_de_pau.samba: 1
+nube: un_lugar_en_tu_almohada.samba: 1
+ogum: meu_lugar.samba: 2
+oh: candidato_cao_cao.samba: 2
+ohh: candidato_cao_cao.samba: 1
+olhar: andanca.samba: 2, menino_de_pe_no_chao.samba: 1, posso_ate_me_apaixonar.samba: 2
+olhinho: enfeiticado.samba: 1
+olho: a_flor_e_o_espinho.samba: 1, as_rosas_nao_falam.samba: 1, candidato_cao_cao.samba: 2, colher_de_pau.samba: 1, menino_de_pe_no_chao.samba: 1
+opiniao: colher_de_pau.samba: 1
+orixa: colher_de_pau.samba: 1
+oswaldo: meu_lugar.samba: 2
+otario: luz_do_repente.samba: 1
+outro: candidato_cao_cao.samba: 1, verdade_chinesa.samba: 1, ze_do_caroco.samba: 1
+pagar: nao_quero_saber_mais_dela.samba: 1
+pagode: luz_do_repente.samba: 5, meu_lugar.samba: 1, posso_ate_me_apaixonar.samba: 2
+pagodinho: colher_de_pau.samba: 1
+paguar: verdade_chinesa.samba: 1
+pai: candidato_cao_cao.samba: 1, pai.samba: 10
+palavra: nao_quero_saber_mais_dela.samba: 1
+pano: colher_de_pau.samba: 1
+pao: verdade_chinesa.samba: 1
+par: andanca.samba: 4
+partida: tive_razao.samba: 2
+partideira: luz_do_repente.samba: 1
+partideiro: luz_do_repente.samba: 1
+passar: a_flor_e_o_espinho.samba: 1, foi_um_rio_que_passou_em_minha_vida.samba: 5, luz_do_repente.samba: 1, meu_lugar.samba: 1, nao_quero_saber_mais_dela.samba: 1, samba_a_dois.samba: 1, verdade_chinesa.samba: 3
+passo: andanca.samba: 1, luz_do_repente.samba: 1
+pau: colher_de_pau.samba: 10, ze_do_caroco.samba: 6
+paulinho: foi_um_rio_que_passou_em_minha_vida.samba: 1
+paz: meu_lugar.samba: 2, pai.samba: 1
+pe: colher_de_pau.samba: 1, menino_de_pe_no_chao.samba: 4, pai.samba: 1
+pe orem: foi_um_rio_que_passou_em_minha_vida.samba: 1
+pechincha: meu_lugar.samba: 1
+pecho: un_lugar_en_tu_almohada.samba: 2
+pedaco: posso_ate_me_apaixonar.samba: 2
+pedir: candidato_cao_cao.samba: 15, posso_ate_me_apaixonar.samba: 2
+pegar: tive_razao.samba: 2
+peito: samba_a_dois.samba: 1
+pele: luz_do_repente.samba: 1
+penha: colher_de_pau.samba: 1
+pensar: foi_um_rio_que_passou_em_minha_vida.samba: 1, ja_e.samba: 1, nao_quero_saber_mais_dela.samba: 2, posso_ate_me_apaixonar.samba: 2, tive_razao.samba: 2
+pequeno: jessica.samba: 1
+perai: candidato_cao_cao.samba: 4
+perambular: menino_de_pe_no_chao.samba: 1
+percebi: candidato_cao_cao.samba: 1
+perdao: nao_quero_saber_mais_dela.samba: 1
+perder: verdade_chinesa.samba: 1
+perfumare: un_lugar_en_tu_almohada.samba: 2
+perfume: as_rosas_nao_falam.samba: 1
+perguntar: o_que_e_o_amor.samba: 1
+perna: pai.samba: 1
+perola: luz_do_repente.samba: 2
+pirataria: pai.samba: 1
+pitelzinho: posso_ate_me_apaixonar.samba: 2
+pobre: menino_de_pe_no_chao.samba: 1
+poco: malandro_sou_eu.samba: 1
+poderei: tive_razao.samba: 2
+poeira: malandro_sou_eu.samba: 1
+poeta: meu_lugar.samba: 1
+policia: candidato_cao_cao.samba: 5
+politico: candidato_cao_cao.samba: 5
+por: foi_um_rio_que_passou_em_minha_vida.samba: 1
+porcao: jessica.samba: 2
+portela: foi_um_rio_que_passou_em_minha_vida.samba: 2, nao_quero_saber_mais_dela.samba: 1
+potinho: enfeiticado.samba: 1
+pra: a_flor_e_o_espinho.samba: 1, andanca.samba: 1, candidato_cao_cao.samba: 2, colher_de_pau.samba: 1, conselho.samba: 2, eu_sambo_mesmo.samba: 1, ja_e.samba: 7, jessica.samba: 7, luz_do_repente.samba: 1, malandro_sou_eu.samba: 2, meu_lugar.samba: 5, o_que_e_o_amor.samba: 2, pai.samba: 2, posso_ate_me_apaixonar.samba: 6, tive_razao.samba: 2, verdade_chinesa.samba: 3, ze_do_caroco.samba: 2
+praia: posso_ate_me_apaixonar.samba: 2
+prato: candidato_cao_cao.samba: 1, enfeiticado.samba: 1
+prazer: eu_sambo_mesmo.samba: 1, meu_lugar.samba: 2
+preco: ze_do_caroco.samba: 1
+preconceito: colher_de_pau.samba: 1
+prender: candidato_cao_cao.samba: 2
+principalmente: jessica.samba: 1
+pro: enfeiticado.samba: 2, luz_do_repente.samba: 1, meu_lugar.samba: 1, nao_quero_saber_mais_dela.samba: 1, pai.samba: 1, samba_a_dois.samba: 1
+profundo: ze_do_caroco.samba: 1
+promessa: verdade_chinesa.samba: 1
+provar: candidato_cao_cao.samba: 1
+proximo: candidato_cao_cao.samba: 1
+puder: ja_e.samba: 2
+purinho: enfeiticado.samba: 1
+quase: pai.samba: 1
+queimar: posso_ate_me_apaixonar.samba: 2
+queixo: as_rosas_nao_falam.samba: 1
+quente: eu_sambo_mesmo.samba: 1
+quentinho: enfeiticado.samba: 1
+querer: andanca.samba: 2, ja_e.samba: 2, luz_do_repente.samba: 1, nao_quero_saber_mais_dela.samba: 4, posso_ate_me_apaixonar.samba: 4, tive_razao.samba: 2, verdade_chinesa.samba: 1, ze_do_caroco.samba: 1
+queres: as_rosas_nao_falam.samba: 1
+questao: candidato_cao_cao.samba: 2
+quintal: malandro_sou_eu.samba: 1
+rabanada: colher_de_pau.samba: 1
+rabar: colher_de_pau.samba: 1
+rabo: posso_ate_me_apaixonar.samba: 2
+raca: candidato_cao_cao.samba: 1
+racial: colher_de_pau.samba: 1
+raiz: ze_do_caroco.samba: 1
+rapaz: menino_de_pe_no_chao.samba: 1
+rappa: candidato_cao_cao.samba: 1
+raso: a_flor_e_o_espinho.samba: 1
+rasterira: malandro_sou_eu.samba: 1
+razao: tive_razao.samba: 3
+rebolar: malandro_sou_eu.samba: 1
+receita: verdade_chinesa.samba: 1
+refrao: nao_quero_saber_mais_dela.samba: 1
+refundar: malandro_sou_eu.samba: 1
+regar: jessica.samba: 1
+rei: andanca.samba: 1, nao_quero_saber_mais_dela.samba: 1
+relembrar: meu_lugar.samba: 1
+remedio: o_que_e_o_amor.samba: 1
+remelexo: posso_ate_me_apaixonar.samba: 2
+remexer: eu_sambo_mesmo.samba: 1
+renascer: o_que_e_o_amor.samba: 1
+repente: luz_do_repente.samba: 3
+respirar: un_lugar_en_tu_almohada.samba: 1
+responder: o_que_e_o_amor.samba: 1
+revelacao: pai.samba: 1
+rico: pai.samba: 1
+rincon: un_lugar_en_tu_almohada.samba: 4
+rio: foi_um_rio_que_passou_em_minha_vida.samba: 4
+rir: pai.samba: 1
+roda: andanca.samba: 1, pai.samba: 2
+rodei: andanca.samba: 1
+ronda: meu_lugar.samba: 1
+rosa: andanca.samba: 1, as_rosas_nao_falam.samba: 4
+roubar: as_rosas_nao_falam.samba: 1
+roubei: pai.samba: 1
+rua: pai.samba: 1
+rubi: luz_do_repente.samba: 1
+sa: eu_sambo_mesmo.samba: 1
+sabor: colher_de_pau.samba: 2
+sacanagem: pai.samba: 1
+sacrificio: candidato_cao_cao.samba: 1
+safadao: candidato_cao_cao.samba: 1
+safar: candidato_cao_cao.samba: 2
+safira: luz_do_repente.samba: 1
+saia: posso_ate_me_apaixonar.samba: 4
+sair: candidato_cao_cao.samba: 1
+saliente: posso_ate_me_apaixonar.samba: 2
+samba: eu_sambo_mesmo.samba: 5, foi_um_rio_que_passou_em_minha_vida.samba: 1, meu_lugar.samba: 2, nao_quero_saber_mais_dela.samba: 2, samba_a_dois.samba: 13
+sambar: eu_sambo_mesmo.samba: 4, pai.samba: 1, posso_ate_me_apaixonar.samba: 2
+sambe: eu_sambo_mesmo.samba: 1
+sambo: eu_sambo_mesmo.samba: 3, samba_a_dois.samba: 4
+santo: colher_de_pau.samba: 1, malandro_sou_eu.samba: 1
+sao: meu_lugar.samba: 1
+sar: a_flor_e_o_espinho.samba: 1
+sarro: malandro_sou_eu.samba: 1
+saudade: andanca.samba: 1, ja_e.samba: 2, luz_do_repente.samba: 1, meu_lugar.samba: 1
+seguir: verdade_chinesa.samba: 3
+seguro: luz_do_repente.samba: 4, malandro_sou_eu.samba: 1
+senhor: posso_ate_me_apaixonar.samba: 2
+sensacional: colher_de_pau.samba: 1
+sentar: colher_de_pau.samba: 1, verdade_chinesa.samba: 3
+sentimento: verdade_chinesa.samba: 3
+sentir: foi_um_rio_que_passou_em_minha_vida.samba: 1, luz_do_repente.samba: 1
+senzala: colher_de_pau.samba: 1
+sequencia: tive_razao.samba: 2
+ser: colher_de_pau.samba: 1, meu_lugar.samba: 2, nao_quero_saber_mais_dela.samba: 2, pai.samba: 1, ze_do_caroco.samba: 1
+sera: conselho.samba: 1, foi_um_rio_que_passou_em_minha_vida.samba: 1, pai.samba: 1, verdade_chinesa.samba: 1
+seresta: andanca.samba: 1
+serio: luz_do_repente.samba: 1, posso_ate_me_apaixonar.samba: 2
+servico: ze_do_caroco.samba: 1
+sete: meu_lugar.samba: 1
+si: un_lugar_en_tu_almohada.samba: 1
+simplesmente: as_rosas_nao_falam.samba: 1
+sintar: eu_sambo_mesmo.samba: 1
+sinter: eu_sambo_mesmo.samba: 1
+sinto: candidato_cao_cao.samba: 1
+so: andanca.samba: 3, colher_de_pau.samba: 12, conselho.samba: 1, eu_sambo_mesmo.samba: 1, foi_um_rio_que_passou_em_minha_vida.samba: 2, luz_do_repente.samba: 7, menino_de_pe_no_chao.samba: 2, pai.samba: 2, posso_ate_me_apaixonar.samba: 6, samba_a_dois.samba: 1, tive_razao.samba: 2, verdade_chinesa.samba: 1
+sofrer: conselho.samba: 1, eu_sambo_mesmo.samba: 1, samba_a_dois.samba: 1
+sol: a_flor_e_o_espinho.samba: 1, o_que_e_o_amor.samba: 2
+somar: luz_do_repente.samba: 1
+sombra: un_lugar_en_tu_almohada.samba: 1
+sonhador: menino_de_pe_no_chao.samba: 2
+sonhar: meu_lugar.samba: 1
+sonhava: as_rosas_nao_falam.samba: 1
+sonho: as_rosas_nao_falam.samba: 1, enfeiticado.samba: 1, meu_lugar.samba: 1, verdade_chinesa.samba: 1
+sorriso: a_flor_e_o_espinho.samba: 1, meu_lugar.samba: 2
+sossego: posso_ate_me_apaixonar.samba: 2
+sozinha: andanca.samba: 1
+sozinho: menino_de_pe_no_chao.samba: 1
+subir: candidato_cao_cao.samba: 1
+subtrair: luz_do_repente.samba: 1
+sucumbira: conselho.samba: 1
+sueca: meu_lugar.samba: 1
+sufoco: malandro_sou_eu.samba: 1
+sujo: candidato_cao_cao.samba: 2
+suor: meu_lugar.samba: 2
+sussurro: posso_ate_me_apaixonar.samba: 2
+ta: pai.samba: 11, tive_razao.samba: 2, verdade_chinesa.samba: 3
+tacuarembo: un_lugar_en_tu_almohada.samba: 1
+tambem: candidato_cao_cao.samba: 2, colher_de_pau.samba: 1, meu_lugar.samba: 1, o_que_e_o_amor.samba: 1
+televisao: ze_do_caroco.samba: 1
+tempero: colher_de_pau.samba: 1
+tendinha: candidato_cao_cao.samba: 1
+tentar: malandro_sou_eu.samba: 1
+tera: nao_quero_saber_mais_dela.samba: 1
+terar: jessica.samba: 2
+terminar: andanca.samba: 2, as_rosas_nao_falam.samba: 1, meu_lugar.samba: 1
+terra: andanca.samba: 2
+terreiro: candidato_cao_cao.samba: 1, meu_lugar.samba: 1
+ti: as_rosas_nao_falam.samba: 1
+tia: meu_lugar.samba: 1
+tirar: a_flor_e_o_espinho.samba: 1, posso_ate_me_apaixonar.samba: 2
+titulo: jessica.samba: 1
+to: ja_e.samba: 1, pai.samba: 1
+tomadinha: eu_sambo_mesmo.samba: 1
+tomar: foi_um_rio_que_passou_em_minha_vida.samba: 1, posso_ate_me_apaixonar.samba: 2, verdade_chinesa.samba: 3
+trabalhar: ze_do_caroco.samba: 1
+tracar: verdade_chinesa.samba: 1
+tradicional: colher_de_pau.samba: 1
+tranquilo: tive_razao.samba: 2
+trazer: colher_de_pau.samba: 1, foi_um_rio_que_passou_em_minha_vida.samba: 1, jessica.samba: 1, meu_lugar.samba: 1
+tre: enfeiticado.samba: 1
+tregua: andanca.samba: 1
+tres: enfeiticado.samba: 1
+tristeza: foi_um_rio_que_passou_em_minha_vida.samba: 1, verdade_chinesa.samba: 3
+tristonho: as_rosas_nao_falam.samba: 1
+turmalina: luz_do_repente.samba: 1
+umbiguinho: posso_ate_me_apaixonar.samba: 2
+un: un_lugar_en_tu_almohada.samba: 12
+una: un_lugar_en_tu_almohada.samba: 2
+uniao: ja_e.samba: 1
+usar: andanca.samba: 1, candidato_cao_cao.samba: 1
+va: malandro_sou_eu.samba: 1
+vacilar: luz_do_repente.samba: 7, malandro_sou_eu.samba: 1
+vadio: menino_de_pe_no_chao.samba: 1
+vagar: andanca.samba: 1
+valer: verdade_chinesa.samba: 3
+valsecito: un_lugar_en_tu_almohada.samba: 1
+vantagem: pai.samba: 1
+vao: conselho.samba: 1, samba_a_dois.samba: 1
+vaz: meu_lugar.samba: 2
+vejor: a_flor_e_o_espinho.samba: 1, candidato_cao_cao.samba: 2
+vencer: o_que_e_o_amor.samba: 1
+venci: malandro_sou_eu.samba: 1
+vender: conselho.samba: 1
+venho: luz_do_repente.samba: 1
+ver: candidato_cao_cao.samba: 1, eu_sambo_mesmo.samba: 1, foi_um_rio_que_passou_em_minha_vida.samba: 1, luz_do_repente.samba: 1, malandro_sou_eu.samba: 1, menino_de_pe_no_chao.samba: 1, meu_lugar.samba: 1
+verao: as_rosas_nao_falam.samba: 1
+verdade: verdade_chinesa.samba: 2
+verdadeiro: ze_do_caroco.samba: 1
+versar: luz_do_repente.samba: 2
+versatilidade: candidato_cao_cao.samba: 1
+verso: andanca.samba: 2, luz_do_repente.samba: 1
+vertir: colher_de_pau.samba: 1
+vestido: andanca.samba: 1
+vida: a_flor_e_o_espinho.samba: 1, colher_de_pau.samba: 1, conselho.samba: 1, foi_um_rio_que_passou_em_minha_vida.samba: 4, malandro_sou_eu.samba: 1, pai.samba: 1, tive_razao.samba: 2, verdade_chinesa.samba: 5
+vila: ze_do_caroco.samba: 1
+vim: andanca.samba: 4, luz_do_repente.samba: 6, malandro_sou_eu.samba: 1
+vinho: nao_quero_saber_mais_dela.samba: 1
+viola: foi_um_rio_que_passou_em_minha_vida.samba: 1
+vir: as_rosas_nao_falam.samba: 1
+virar: pai.samba: 1
+vital: conselho.samba: 1, samba_a_dois.samba: 1
+viver: a_flor_e_o_espinho.samba: 1, eu_sambo_mesmo.samba: 1, menino_de_pe_no_chao.samba: 1
+vivo: pai.samba: 1
+vizinho: pai.samba: 1
+vo: meu_lugar.samba: 1
+voce: a_flor_e_o_espinho.samba: 1, candidato_cao_cao.samba: 10, foi_um_rio_que_passou_em_minha_vida.samba: 1, ja_e.samba: 6, jessica.samba: 4, meu_lugar.samba: 2, posso_ate_me_apaixonar.samba: 6, tive_razao.samba: 4
+volta: ja_e.samba: 2, malandro_sou_eu.samba: 1, nao_quero_saber_mais_dela.samba: 1
+voltar: as_rosas_nao_falam.samba: 1, foi_um_rio_que_passou_em_minha_vida.samba: 1, malandro_sou_eu.samba: 1, nao_quero_saber_mais_dela.samba: 2, tive_razao.samba: 2
+volto: as_rosas_nao_falam.samba: 1
+vontade: eu_sambo_mesmo.samba: 2, tive_razao.samba: 2, verdade_chinesa.samba: 3
+votar: candidato_cao_cao.samba: 2, pai.samba: 1
+voto: candidato_cao_cao.samba: 6
+vovo: colher_de_pau.samba: 9
+voz: colher_de_pau.samba: 1
+xicara: enfeiticado.samba: 1
+yo: un_lugar_en_tu_almohada.samba: 3
+ze: ze_do_caroco.samba: 5
+zeca: colher_de_pau.samba: 2
+zona: pai.samba: 1
+zuar: tive_razao.samba: 2
