@@ -1,0 +1,11 @@
+amor: c.txt: 1
+casa: a.txt: 1, b.txt: 4, c.txt: 1
+casar: c.txt: 2
+comigo: c.txt: 2
+engracado: a.txt: 1
+faca: c.txt: 1
+morar: b.txt: 1, c.txt: 1
+nao: a.txt: 2, b.txt: 1
+tambem: b.txt: 1
+ter: a.txt: 2
+teto: a.txt: 1
