@@ -18,3 +18,14 @@ O repositório está dividido em duas pastas principais, correspondentes aos tra
 
 > **Nota:** as duas pastas possuem uma subpasta `resultados` com as saídas esperadas já executadas e testadas.
 
+## Tecnologias Utilizadas
+
+* Python 3.11.3;
+* spaCy;
+* Modelo de linguagem `pt_core_news_lg`;
+* Processamento de Linguagem Natural;
+* Remoção de stopwords;
+* Lematização;
+* Índice invertido;
+* Modelo booleano de recuperação;
+* Ponderação TF-IDF.
