@@ -6,7 +6,7 @@
 
 ## Objetivos
 
-Guardar os trabalhos que desenvolvi na metade do curso, como uma forma de preservar meu histórico de aprendizado na universidade e registrar minha evolução na implementação de técnicas de organização e recuperação da informação.
+Guardar os trabalhos que desenvolvi na metade do curso, como uma forma de preservar meu histórico de aprendizado na universidade e registrar minha evolução em linguagem Python, implementação de técnicas de organização e recuperação da informação.
 
 ## Estrutura do Repositório
 
